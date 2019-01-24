@@ -1,4 +1,4 @@
-class Show
+class View
 
 	#Affiche la ditribution des symboles au début du jeu
 	def initialize(player1, player2)
@@ -20,7 +20,7 @@ class Show
 
 	#En cas de réponse éronnés de l'utilisateur, on affiche ce message
 	def check_choice
-		puts "Héhé, cette case n'est pas jouable !!"
+		puts "Oh oh, cette case n'est pas jouable !!"
 		print "> "
 	end
 

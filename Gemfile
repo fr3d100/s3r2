@@ -1,7 +1,7 @@
-source "https://rubygems.org"
-gem 'pry'
+source 'https://rubygems.org'
 ruby '2.5.1'
-gem 'rubocop', '~> 0.57.2'
 gem 'rspec'
-gem 'dotenv', '~> 2.1', '>= 2.1.1'
-gem 'watir', '~> 5.0'
+gem 'pry'
+gem 'rubocop', '~> 0.57.2'
+gem 'nokogiri'
+gem 'watir'
