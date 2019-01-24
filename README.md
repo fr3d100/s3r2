@@ -6,7 +6,7 @@ Bienvenue sur mon super jeu du Morpion en Ruby !
 git clone https://github.com/fr3d100/s3r2.git
 ```
 
-## 2) Execute un magnifique 
+## 2) Lance la partie
 ```
 ruby app.rb
 ```
