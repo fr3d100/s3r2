@@ -1,12 +1,12 @@
 Bienvenue sur mon super jeu du Morpion en Ruby !
 ======
 
-##1 Clone le repo chez toi
+## 1 Clone le repo chez toi
 ```
 git clone https://github.com/fr3d100/s3r2.git
 ```
 
-##2 Execute un magnifique 
+## 2 Execute un magnifique 
 ```
 ruby app.rb
 ```
